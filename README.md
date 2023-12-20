@@ -3,7 +3,6 @@
 ## Links
 
 - [Demo here](https://anasommer.github.io/odin-recipes/)
-- [Link to the assignment]()
 
 ## About
 
